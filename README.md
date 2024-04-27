@@ -1,5 +1,5 @@
 # WanderLust
-[![WanderLust](https://example.com)
+[![WanderLust](https://github.com/zodrickjohn/wanderlust/blob/main/Screenshot%202024-04-27%20143400.png?raw=true)
 WanderLust is a cutting-edge project aimed at revolutionizing vacation planning through its innovative MVC-based platform. Developed locally, WanderLust aggregates hotel listings from various global cities onto a single accessible platform, simplifying the process of discovering dream destinations for travelers worldwide.
 
 ## Key Features
